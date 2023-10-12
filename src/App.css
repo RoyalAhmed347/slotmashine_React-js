@@ -1,0 +1,31 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: #D2DCDE;
+}
+header{
+  text-align: center;
+  padding: 15px 100px;
+  background-color: #fff;
+}
+header h1 {
+  font-weight: 300;
+}
+header h1 span{
+  background-color: #DBE3E5;
+  font-weight: 600;
+
+}
+.outerSlote{
+  width: 25%;
+  margin: auto;
+  margin-top: 20px;
+  height: 300px;
+  border: 2px solid rgb(65, 65, 65);
+  background-color: #fff;
+  text-align: center;
+  font-size: 10px;
+}
